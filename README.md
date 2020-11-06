@@ -28,9 +28,12 @@ Application should allow users to delete previously saved notes.
 ![image](https://user-images.githubusercontent.com/49447293/98325787-a015df00-1fbd-11eb-8425-9c5db7c7a275.png)
 
 
+![image](https://user-images.githubusercontent.com/49447293/98325985-1f0b1780-1fbe-11eb-9016-fcdd1f9fa5d6.png)
+
+
+![image](https://user-images.githubusercontent.com/49447293/98325957-0ac71a80-1fbe-11eb-88d3-d0ddf75aa985.png)
+
+
 https://immense-castle-52349.herokuapp.com/
-
-
-
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
